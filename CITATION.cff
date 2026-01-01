@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the Zenodo archive (version DOI)."
+title: "Europe eclipse ionosphere 2011–2022: code and lightweight input tables for ASR paper"
+authors:
+  - family-names: "Can"
+    given-names: "Zehra"
+  - family-names: "Aktaş"
+    given-names: "Eslem Nur"
+  - family-names: "Ökten"
+    given-names: "Mehmet Baran"
+license: "MIT"
+keywords:
+  - ionosphere
+  - solar eclipse
+  - GIRO
+  - TEC
+  - foF2
+  - hmF2
+repository-code: "https://github.com/<YOUR-USERNAME>/europe-eclipse-ionosphere-2011-2022"
